@@ -1,0 +1,23 @@
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#container .cella {
+    display: inline-block;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    font-size: 3rem;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.green {
+    background-color: green;
+}
